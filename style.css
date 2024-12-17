@@ -1,8 +1,20 @@
+body {
+  background-color: bisque;
+}
+
+h1 {
+  color: lime;
+  background-color: rgba(0, 0, 0, 0.546);
+}
 .blue {
   background-color: blue;
 }
 .circle {
-  border-radius: 50%;
+  border-radius: 46%;
   width: 500px;
   height: 500px;
+  background-color: aquamarine;
+  border: 5px solid firebrick;
+  outline: 50px solid whitesmoke;
+  margin: 80px;
 }
